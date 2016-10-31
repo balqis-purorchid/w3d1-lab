@@ -66,26 +66,15 @@ namespace Week_3_Day_1
 
     class Square : Rectangle
     { 
-        //field
-        public int edge;
-        
-        //properties
-        public int Edge
-        {
-            get { return edge; }
-            set { edge = value; }
-        }
-        
+                
         //empty constructor
         public Square() : base() {
-            Width = 1;//access the rectangle Width property
-            Height = 1;//access the rectangle Height property
+
         }
 
         //constructor with one parameter, i.e the surface
         public Square(int edge) : base(edge,edge) {
-            Width = edge;//access the rectangle Width property
-            Height = edge;//access the rectangle Height property
+
         }
 
 
@@ -134,8 +123,6 @@ namespace Week_3_Day_1
     class Teacher : Person
     {
         // Fields
-        public string name;
-        public int age;
         private string subject;
 
 
@@ -149,13 +136,11 @@ namespace Week_3_Day_1
         // Constructors
         public Teacher(string name, int age, string subject) : base(name, age)
         {
-            Name = name;
-            Age = age;
             Subject = subject;
         }
 
         // Methods
-        public override string Teaching()
+        public string Teaching()
         {
             return "Name: " + Name + " " +
                 "is teaching" + Subject +
@@ -176,8 +161,6 @@ namespace Week_3_Day_1
     class Student : Person
     {
         // Fields
-        public string name;
-        public int age;
         private string subject;
         private int score;
 
@@ -198,8 +181,6 @@ namespace Week_3_Day_1
         // Constructors
         public Student(string name, int age, string subject, int score) : base(name, age)
         {
-            Name = name;
-            Age = age;
             Subject = subject;
             Score = score;
         }
