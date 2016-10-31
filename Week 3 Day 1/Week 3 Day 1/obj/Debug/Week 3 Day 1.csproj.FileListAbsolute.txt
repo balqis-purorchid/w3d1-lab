@@ -1,0 +1,13 @@
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Week 3 Day 1\bin\Debug\Week 3 Day 1.exe.config
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Week 3 Day 1\bin\Debug\Week 3 Day 1.exe
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Week 3 Day 1\bin\Debug\Week 3 Day 1.pdb
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Week 3 Day 1\obj\Debug\Week 3 Day 1.exe
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Week 3 Day 1\obj\Debug\Week 3 Day 1.pdb
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Week 3 Day 1\bin\Debug\Week 3 Day 1.exe.config
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Week 3 Day 1\obj\Debug\Week 3 Day 1.exe
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Week 3 Day 1\obj\Debug\Week 3 Day 1.pdb
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Week 3 Day 1\bin\Debug\Week 3 Day 1.exe
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Week 3 Day 1\bin\Debug\Week 3 Day 1.pdb
+C:\Users\danie\Source\Repos\makers\Week 3 Day 1\Week 3 Day 1\bin\Debug\Week 3 Day 1.exe.config
+C:\Users\danie\Source\Repos\makers\Week 3 Day 1\Week 3 Day 1\obj\Debug\Week 3 Day 1.exe
+C:\Users\danie\Source\Repos\makers\Week 3 Day 1\Week 3 Day 1\obj\Debug\Week 3 Day 1.pdb

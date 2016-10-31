@@ -1,0 +1,16 @@
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Test\bin\Debug\Test.dll
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Test\bin\Debug\Test.pdb
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Test\bin\Debug\Week 3 Day 1.exe
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Test\bin\Debug\Week 3 Day 1.pdb
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Test\obj\Debug\Test.dll
+C:\Users\danie\Source\Repos\hello-cs-world\Week 3 Day 1\Test\obj\Debug\Test.pdb
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Test\bin\Debug\Test.dll
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Test\bin\Debug\Test.pdb
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Test\bin\Debug\Week 3 Day 1.exe
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Test\bin\Debug\Week 3 Day 1.pdb
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Test\obj\Debug\Test.dll
+C:\Users\danie\Source\Repos\w3d1-lab\Week 3 Day 1\Test\obj\Debug\Test.pdb
