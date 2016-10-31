@@ -1,13 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 3 Day 1", "Week 3 Day 1\Week 3 Day 1.csproj", "{237699D9-AF8E-4882-8B6F-11C9AD5B5933}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{200C6E11-A8BA-48DF-B24A-D228A88DA069}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B6A2DAAA-E3DF-412B-ACD4-4D0A3280A092}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +15,6 @@ Global
 		{237699D9-AF8E-4882-8B6F-11C9AD5B5933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{237699D9-AF8E-4882-8B6F-11C9AD5B5933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{237699D9-AF8E-4882-8B6F-11C9AD5B5933}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B6A2DAAA-E3DF-412B-ACD4-4D0A3280A092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6A2DAAA-E3DF-412B-ACD4-4D0A3280A092}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6A2DAAA-E3DF-412B-ACD4-4D0A3280A092}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6A2DAAA-E3DF-412B-ACD4-4D0A3280A092}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -64,7 +64,32 @@ namespace Week_3_Day_1
     // Create Square class inherit from Rectangle here
     // ============================================================
 
-    // Code Here
+    class Square : Rectangle
+    { 
+        //field
+        public int edge;
+        
+        //properties
+        public int Edge
+        {
+            get { return edge; }
+            set { edge = value; }
+        }
+        
+        //empty constructor
+        public Square() : base() {
+            Width = 1;//access the rectangle Width property
+            Height = 1;//access the rectangle Height property
+        }
+
+        //constructor with one parameter, i.e the surface
+        public Square(int edge) : base(edge,edge) {
+            Width = edge;//access the rectangle Width property
+            Height = edge;//access the rectangle Height property
+        }
+
+
+    }
 
     // ============================================================
 
@@ -106,7 +131,37 @@ namespace Week_3_Day_1
     // Create Teacher class inherit from person here
     // ============================================================
 
-    // Code Here
+    class Teacher : Person
+    {
+        // Fields
+        public string name;
+        public int age;
+        private string subject;
+
+
+        // Properties
+        public string Subject
+        {
+            get { return subject; }
+            set { subject = value; }
+        }
+
+        // Constructors
+        public Teacher(string name, int age, string subject) : base(name, age)
+        {
+            Name = name;
+            Age = age;
+            Subject = subject;
+        }
+
+        // Methods
+        public override string Teaching()
+        {
+            return "Name: " + Name + " " +
+                "is teaching" + Subject +
+                " right now.\n";
+        }
+    }
 
     // ============================================================
 
@@ -118,7 +173,39 @@ namespace Week_3_Day_1
     // Create Student class inherit from person here
     // ============================================================
 
-    // Code Here
+    class Student : Person
+    {
+        // Fields
+        public string name;
+        public int age;
+        private string subject;
+        private int score;
+
+
+        // Properties
+        public string Subject
+        {
+            get { return subject; }
+            set { subject = value; }
+        }
+
+        public int Score
+        {
+            get { return score; }
+            set { score = value; }
+        }
+
+        // Constructors
+        public Student(string name, int age, string subject, int score) : base(name, age)
+        {
+            Name = name;
+            Age = age;
+            Subject = subject;
+            Score = score;
+        }
+
+        
+    }
 
     // ============================================================
 
